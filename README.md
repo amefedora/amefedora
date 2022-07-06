@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amefedora
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science at Parahyangan Catholic University
+- 🌱 Final year Computer Science student at Parahyangan Catholic University, Indonesia
 - 📫 ginting.afi21@gmail.com
 
 <!---
